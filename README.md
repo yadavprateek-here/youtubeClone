@@ -16,8 +16,8 @@ This project requires the following tools:
 **Step 1: Clone the repository**
 
 ```
-$ git clone https://github.com/yadavprateek-here/video_streaming_app.git
-$ cd video_streaming_app
+$ git clone https://github.com/yadavprateek-here/youtubeClone.git
+cd youtubeClone.git
 ```
 
 **Step 2: Install dependencies**
